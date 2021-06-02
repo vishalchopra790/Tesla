@@ -1,0 +1,4 @@
+06:10:35.037 [main] INFO  utilities.Base - chrome launched
+06:10:46.896 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+06:10:48.872 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+06:11:20.714 [main] INFO  utilities.Base - browser closed

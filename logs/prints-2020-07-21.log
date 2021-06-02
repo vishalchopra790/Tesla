@@ -1,0 +1,60 @@
+00:18:33.294 [main] INFO  Base - chrome-headless launched
+00:18:42.135 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+00:18:58.454 [main] INFO  UnDoTres - Navigated to Payment webpage
+00:19:34.732 [main] INFO  Base - browser closed
+00:21:20.299 [main] INFO  Base - chrome launched
+00:21:29.582 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+00:21:43.796 [main] INFO  UnDoTres - Navigated to Payment webpage
+00:22:22.758 [main] INFO  Base - browser closed
+00:22:43.247 [main] INFO  Base - chrome launched
+00:22:51.030 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+00:23:06.420 [main] INFO  UnDoTres - Navigated to Payment webpage
+00:23:35.982 [main] INFO  UnDoTres - Recharge sucessfully for the number5523261151
+00:26:50.559 [main] INFO  Base - chrome launched
+00:26:59.428 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+00:27:19.622 [main] INFO  UnDoTres - Navigated to Payment webpage
+00:28:00.847 [main] INFO  Base - browser closed
+00:30:11.062 [main] INFO  Base - chrome launched
+00:30:19.869 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+00:30:43.539 [main] INFO  UnDoTres - Navigated to Payment webpage
+00:31:13.399 [main] INFO  UnDoTres - Recharge sucessfully for the number5523261151
+00:38:16.189 [main] INFO  utilities.Base - chrome launched
+00:38:29.689 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+00:38:38.620 [main] INFO  Tests.UnDoTres - Navigated to Payment webpage
+00:38:43.408 [main] INFO  utilities.Base - browser closed
+00:40:07.719 [main] INFO  utilities.Base - chrome launched
+00:40:17.343 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+00:40:46.045 [main] INFO  Tests.UnDoTres - Navigated to Payment webpage
+00:41:19.573 [main] INFO  Tests.UnDoTres - Recharge sucessfully for the number5523261151
+13:03:05.000 [main] INFO  utilities.Base - chrome launched
+13:04:04.441 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+13:04:58.875 [main] INFO  Tests.UnDoTres - Navigated to Payment webpage
+13:06:09.727 [main] INFO  utilities.Base - browser closed
+13:08:33.808 [main] INFO  utilities.Base - chrome launched
+13:08:51.219 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+13:09:39.672 [main] INFO  Tests.UnDoTres - Navigated to Payment webpage
+13:10:45.853 [main] INFO  Tests.UnDoTres - Recharge sucessfully for the number5523261151
+13:31:01.205 [main] INFO  utilities.Base - chrome launched
+13:31:29.672 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+13:31:40.155 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+13:31:55.670 [main] INFO  utilities.Base - browser closed
+13:39:27.255 [main] INFO  utilities.Base - chrome launched
+13:39:41.850 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+13:39:55.256 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+13:40:05.771 [main] INFO  utilities.Base - browser closed
+13:41:52.288 [main] INFO  utilities.Base - chrome launched
+13:42:21.053 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+13:43:04.284 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+13:44:02.607 [main] INFO  PageObject.UndoRechStatus - Recharge sucessfully for the number5523261151
+13:44:02.796 [main] INFO  PageObject.UndoRechStatus - Recharge Successfully
+21:14:27.603 [main] INFO  utilities.Base - chrome launched
+21:14:47.332 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+21:15:17.989 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+21:15:55.228 [main] INFO  PageObject.UndoRechStatus - Recharge sucessfully for the number5523261151
+21:15:55.281 [main] INFO  PageObject.UndoRechStatus - Recharge Successfully
+23:58:59.585 [main] INFO  utilities.Base - chrome launched
+23:59:17.478 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+23:59:45.652 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+00:00:25.679 [main] INFO  PageObject.UndoRechStatus - Recharge sucessfully for the number5523261151
+00:00:25.735 [main] INFO  PageObject.UndoRechStatus - Recharge Successfully
+00:00:29.292 [main] INFO  utilities.Base - browser closed

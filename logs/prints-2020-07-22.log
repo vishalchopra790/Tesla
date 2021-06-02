@@ -1,0 +1,191 @@
+00:07:00.549 [main] INFO  utilities.Base - ie launched
+00:23:20.885 [TestNG-test=Regression groups-1] INFO  utilities.Base - chrome launched
+00:23:58.913 [TestNG-test=Regression groups-1] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+00:27:10.671 [TestNG-test=Regression groups-1] INFO  utilities.Base - browser closed
+00:39:49.910 [TestNG-test=Regression groups-1] INFO  utilities.Base - chrome launched
+00:40:06.595 [TestNG-test=Regression groups-1] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+00:40:40.994 [TestNG-test=Regression groups-1] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+00:41:25.678 [TestNG-test=Regression groups-1] INFO  PageObject.UndoRechStatus - Recharge sucessfully for the number5523261151
+00:41:25.788 [TestNG-test=Regression groups-1] INFO  PageObject.UndoRechStatus - Recharge Successfully
+00:45:36.223 [TestNG-test=Regression groups-1] INFO  utilities.Base - chrome launched
+00:45:53.311 [TestNG-test=Regression groups-1] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+00:46:00.746 [TestNG-test=Regression groups-1] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+00:46:20.959 [TestNG-test=Regression groups-1] INFO  utilities.Base - browser closed
+00:50:48.669 [TestNG-test=Regression groups-1] INFO  utilities.Base - chrome launched
+00:51:23.920 [TestNG-test=Regression groups-1] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+00:52:09.192 [TestNG-test=Regression groups-1] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+00:53:36.928 [TestNG-test=Regression groups-1] INFO  utilities.Base - browser closed
+00:55:15.930 [TestNG-test=Regression groups-1] INFO  utilities.Base - chrome launched
+00:55:37.210 [TestNG-test=Regression groups-1] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+00:56:16.334 [TestNG-test=Regression groups-1] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+00:56:31.449 [TestNG-test=Regression groups-1] INFO  utilities.Base - browser closed
+00:57:13.008 [TestNG-test=Regression groups-1] INFO  utilities.Base - chrome-headless launched
+00:57:28.193 [TestNG-test=Regression groups-1] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+00:57:47.049 [TestNG-test=Regression groups-1] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+00:58:24.008 [TestNG-test=Regression groups-1] INFO  PageObject.UndoRechStatus - Recharge sucessfully for the number5523261151
+00:58:24.061 [TestNG-test=Regression groups-1] INFO  PageObject.UndoRechStatus - Recharge Successfully
+01:00:54.318 [TestNG-test=Regression groups-1] INFO  utilities.Base - chrome-headless launched
+01:01:07.511 [TestNG-test=Regression groups-1] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+01:01:24.558 [TestNG-test=Regression groups-1] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+01:01:38.043 [TestNG-test=Regression groups-1] INFO  utilities.Base - browser closed
+01:08:43.358 [TestNG-test=Regression groups-1] INFO  utilities.Base - chrome-headless launched
+01:08:58.265 [TestNG-test=Regression groups-1] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+01:09:23.981 [TestNG-test=Regression groups-1] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+01:10:10.004 [TestNG-test=Regression groups-1] INFO  utilities.Base - browser closed
+01:28:43.995 [TestNG-test=Regression groups-1] INFO  utilities.Base - chrome-headless launched
+01:28:57.366 [TestNG-test=Regression groups-1] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+01:29:19.122 [TestNG-test=Regression groups-1] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+01:29:33.465 [TestNG-test=Regression groups-1] INFO  utilities.Base - browser closed
+01:32:20.566 [main] INFO  utilities.Base - chrome-headless launched
+01:32:30.340 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+01:32:47.198 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+01:32:57.351 [main] INFO  utilities.Base - browser closed
+01:41:38.293 [main] INFO  utilities.Base - chrome-headless launched
+01:41:50.474 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+01:42:10.882 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+01:42:34.248 [main] INFO  utilities.Base - chrome-headless launched
+01:42:40.542 [main] INFO  utilities.Base - browser closed
+01:42:46.463 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+01:43:02.636 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+01:43:10.121 [main] INFO  utilities.Base - browser closed
+01:52:03.977 [main] INFO  utilities.Base - chrome-headless launched
+01:52:16.083 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+01:52:34.175 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+01:52:43.895 [main] INFO  utilities.Base - browser closed
+01:55:24.327 [main] INFO  utilities.Base - chrome-headless launched
+01:55:41.599 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+01:56:06.750 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+01:56:29.230 [main] INFO  utilities.Base - browser closed
+01:57:44.340 [main] INFO  utilities.Base - chrome-headless launched
+01:58:00.110 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+01:58:31.518 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+01:58:52.383 [main] INFO  utilities.Base - browser closed
+02:06:34.983 [main] INFO  utilities.Base - chrome-headless launched
+02:07:15.971 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+02:07:21.786 [main] INFO  utilities.Base - chrome-headless launched
+02:07:47.685 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+02:08:00.375 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+02:08:23.735 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+02:08:25.037 [main] INFO  utilities.Base - browser closed
+02:11:02.546 [main] INFO  utilities.Base - browser closed
+02:11:48.546 [main] INFO  utilities.Base - chrome-headless launched
+02:12:06.875 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+02:12:29.937 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+02:15:20.096 [main] INFO  utilities.Base - chrome-headless launched
+02:15:25.674 [main] ERROR PageObject.UndoHomepage - Didn't navigate to Home webpage
+02:15:28.180 [main] INFO  utilities.Base - browser closed
+12:08:50.293 [main] INFO  utilities.Base - chrome-headless launched
+12:09:06.384 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+12:09:28.424 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+12:09:38.052 [main] INFO  utilities.Base - browser closed
+12:11:22.657 [main] INFO  utilities.Base - chrome-headless launched
+12:11:41.553 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+12:11:59.601 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+12:12:11.189 [main] INFO  utilities.Base - browser closed
+12:30:34.479 [main] INFO  utilities.Base - chrome-headless launched
+12:30:47.939 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+12:31:15.935 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+12:31:26.598 [main] INFO  utilities.Base - browser closed
+12:34:42.575 [main] INFO  utilities.Base - chrome-headless launched
+12:34:55.101 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+12:35:14.717 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+12:35:25.175 [main] INFO  utilities.Base - browser closed
+12:44:18.462 [main] INFO  utilities.Base - chrome-headless launched
+12:44:36.926 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+12:44:58.988 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+12:45:09.067 [main] INFO  utilities.Base - browser closed
+12:58:57.658 [main] INFO  utilities.Base - chrome-headless launched
+12:59:18.514 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+12:59:40.481 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+12:59:50.434 [main] INFO  utilities.Base - browser closed
+13:15:27.542 [main] INFO  utilities.Base - chrome-headless launched
+13:15:46.312 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+13:16:11.120 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+13:16:20.843 [main] INFO  utilities.Base - browser closed
+13:30:05.653 [main] INFO  utilities.Base - chrome-headless launched
+13:30:27.344 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+13:30:52.371 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+13:31:03.859 [main] INFO  utilities.Base - browser closed
+13:41:28.141 [main] INFO  utilities.Base - chrome-headless launched
+13:41:49.309 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+13:42:12.950 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+13:42:26.627 [main] INFO  utilities.Base - browser closed
+13:48:52.364 [main] INFO  utilities.Base - chrome-headless launched
+13:49:09.596 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+13:49:36.105 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+13:49:54.563 [main] INFO  utilities.Base - browser closed
+13:58:58.214 [main] INFO  utilities.Base - chrome launched
+13:59:25.218 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+14:00:22.478 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+14:01:31.098 [main] INFO  utilities.Base - browser closed
+14:02:40.227 [main] INFO  utilities.Base - chrome launched
+14:03:16.893 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+14:05:00.490 [main] INFO  utilities.Base - browser closed
+14:05:59.986 [main] INFO  utilities.Base - chrome launched
+14:06:36.169 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+14:07:15.775 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+14:08:48.932 [main] INFO  utilities.Base - browser closed
+14:09:04.966 [main] INFO  utilities.Base - chrome launched
+14:09:29.224 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+14:10:08.152 [main] INFO  utilities.Base - browser closed
+14:20:09.248 [main] INFO  utilities.Base - chrome launched
+14:20:27.709 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+14:20:32.454 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+14:20:47.289 [main] INFO  utilities.Base - browser closed
+14:22:54.348 [main] INFO  utilities.Base - chrome launched
+14:23:06.590 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+14:23:41.076 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+14:24:36.677 [main] INFO  utilities.Base - browser closed
+14:26:03.686 [main] INFO  utilities.Base - chrome launched
+14:26:21.262 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+14:26:55.513 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+14:27:45.588 [main] INFO  PageObject.UndoRechStatus - Recharge sucessfully for the number5523261151
+14:27:45.643 [main] INFO  PageObject.UndoRechStatus - Recharge Successfully
+14:31:18.274 [main] INFO  utilities.Base - chrome launched
+14:31:47.522 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+14:31:56.222 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+14:32:17.251 [main] INFO  utilities.Base - browser closed
+14:34:55.046 [main] INFO  utilities.Base - chrome-headless launched
+14:35:08.807 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+14:35:34.005 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+14:36:18.385 [main] INFO  PageObject.UndoRechStatus - Recharge sucessfully for the number5523261151
+14:36:18.442 [main] INFO  PageObject.UndoRechStatus - Recharge Successfully
+14:38:26.667 [main] INFO  utilities.Base - chrome launched
+14:38:50.882 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+14:39:43.134 [main] INFO  utilities.Base - browser closed
+16:09:59.062 [main] INFO  utilities.Base - chrome launched
+16:10:18.471 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+16:10:40.756 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+16:11:24.501 [main] INFO  PageObject.UndoRechStatus - Recharge sucessfully for the number5523261151
+16:11:24.550 [main] INFO  PageObject.UndoRechStatus - Recharge Successfully
+16:11:29.326 [main] INFO  utilities.Base - browser closed
+16:12:10.071 [main] INFO  utilities.Base - chrome launched
+16:12:22.779 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+16:12:46.030 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+16:13:32.594 [main] INFO  PageObject.UndoRechStatus - Recharge sucessfully for the number5523261151
+16:13:32.648 [main] INFO  PageObject.UndoRechStatus - Recharge Successfully
+16:13:43.655 [main] INFO  utilities.Base - browser closed
+16:22:11.291 [main] INFO  utilities.Base - chrome launched
+16:22:29.457 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+16:22:50.574 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+16:23:35.033 [main] INFO  PageObject.UndoRechStatus - Recharge sucessfully for the number5523261151
+16:23:35.098 [main] INFO  PageObject.UndoRechStatus - Recharge Successfully
+16:23:44.739 [main] INFO  utilities.Base - browser closed
+16:37:52.974 [main] INFO  utilities.Base - chrome launched
+16:38:13.063 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+16:38:33.820 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+16:39:19.034 [main] INFO  PageObject.UndoRechStatus - Recharge sucessfully for the number5523261151
+16:39:19.079 [main] INFO  PageObject.UndoRechStatus - Recharge Successfully
+16:39:22.111 [main] INFO  utilities.Base - browser closed
+16:43:11.801 [main] INFO  utilities.Base - chrome launched
+16:43:25.287 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+16:43:46.647 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+16:44:31.432 [main] INFO  PageObject.UndoRechStatus - Recharge sucessfully for the number5523261151
+16:44:31.505 [main] INFO  PageObject.UndoRechStatus - Recharge Successfully
+16:44:40.141 [main] INFO  utilities.Base - browser closed
+17:07:54.061 [main] INFO  utilities.Base - chrome launched
+17:08:12.482 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+17:08:33.751 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+17:09:18.718 [main] INFO  PageObject.UndoRechStatus - Recharge sucessfully for the number5523261151
+17:09:18.812 [main] INFO  PageObject.UndoRechStatus - Recharge Successfully
+17:09:24.790 [main] INFO  utilities.Base - browser closed

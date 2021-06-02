@@ -1,0 +1,6 @@
+03:12:02.873 [main] INFO  utilities.Base - chrome launched
+03:12:16.705 [main] INFO  PageObject.UndoHomepage - Navigated to Home webpage and title is as expected
+03:12:36.750 [main] INFO  PageObject.UndoPayment - Navigated to Payment webpage
+03:13:03.358 [main] INFO  PageObject.UndoRechStatus - Recharge sucessfully for the number5523261151
+03:13:03.381 [main] INFO  PageObject.UndoRechStatus - Recharge Successfully
+03:13:04.193 [main] INFO  utilities.Base - browser closed
